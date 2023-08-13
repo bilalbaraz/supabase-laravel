@@ -1,0 +1,32 @@
+{
+    "name": "bilalbaraz/supabase-laravel",
+    "description": "Wrapper for Supabase",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bilalbaraz\\SupabaseLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bilal Baraz",
+            "email": "bilalbaraz@windowslive.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.7"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bilalbaraz\\SupabaseLaravel\\SupabaseServiceProvider"
+            ]
+        }
+    }
+}
