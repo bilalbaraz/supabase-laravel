@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only">
 </p>
 
+[![License](http://poser.pugx.org/bilalbaraz/supabase-laravel/license)](https://packagist.org/packages/bilalbaraz/supabase-laravel)
+
 ---
 # Supabase Laravel
 
