@@ -1,7 +1,6 @@
 {
     "name": "bilalbaraz/supabase-laravel",
     "description": "Wrapper for Supabase",
-    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
